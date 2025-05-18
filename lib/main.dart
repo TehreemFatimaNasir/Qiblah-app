@@ -24,7 +24,7 @@ class QiblaApp extends StatelessWidget {
   }
 }
 
-// ---------------- SPLASH SCREEN ----------------
+
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
@@ -75,7 +75,7 @@ class _SplashScreenState extends State<SplashScreen> {
   }
 }
 
-// ---------------- QIBLA COMPASS SCREEN ----------------
+
 
 class QiblaCompassScreen extends StatefulWidget {
   const QiblaCompassScreen({super.key});
